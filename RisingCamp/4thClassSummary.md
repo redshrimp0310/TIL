@@ -55,6 +55,7 @@ API는 모든 접속을 표준화하기 때문에 기계/운영체제 등과 상
 * Layered System
 * Code on demand(Optional)
 * Uniform Interface
+
 </br>또한, 우리가 RESTful이란 표현을 사용하는데, RESTful은 일반적으로 REST라는 아키텍처를 구현하는 웹 서비스를 나타내기 위해 사용되는 용어이다.
 ‘REST API’를 제공하는 웹 서비스를 ‘RESTful’하다고 할 수 있다.
 RESTful은 REST를 REST답게 쓰기 위한 방법으로, 누군가가 공식적으로 발표한 것이 아니다.
